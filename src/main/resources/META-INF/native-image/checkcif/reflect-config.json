@@ -1,0 +1,3559 @@
+[
+    {
+        "name": "[B"
+    },
+    {
+        "name": "[Ljava.lang.Object;"
+    },
+    {
+        "name": "[Ljava.lang.String;"
+    },
+    {
+        "name": "[Lsun.security.pkcs.SignerInfo;"
+    },
+    {
+        "name": "__redirected.__XMLInputFactory"
+    },
+    {
+        "name": "__redirected.__XMLOutputFactory"
+    },
+    {
+        "name": "ch.qos.logback.classic.encoder.PatternLayoutEncoder",
+        "queryAllPublicMethods": true,
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ch.qos.logback.classic.joran.SerializedModelConfigurator",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ch.qos.logback.classic.pattern.DateConverter",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ch.qos.logback.classic.pattern.LevelConverter",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ch.qos.logback.classic.pattern.LineSeparatorConverter",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ch.qos.logback.classic.pattern.LoggerConverter",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ch.qos.logback.classic.pattern.MessageConverter",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ch.qos.logback.classic.pattern.ThreadConverter",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ch.qos.logback.classic.pattern.color.HighlightingCompositeConverter",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ch.qos.logback.classic.util.DefaultJoranConfigurator",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ch.qos.logback.core.ConsoleAppender",
+        "queryAllPublicMethods": true,
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ch.qos.logback.core.OutputStreamAppender",
+        "methods": [
+            {
+                "name": "setEncoder",
+                "parameterTypes": [
+                    "ch.qos.logback.core.encoder.Encoder"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ch.qos.logback.core.encoder.Encoder",
+        "methods": [
+            {
+                "name": "valueOf",
+                "parameterTypes": [
+                    "java.lang.String"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ch.qos.logback.core.encoder.LayoutWrappingEncoder",
+        "methods": [
+            {
+                "name": "setParent",
+                "parameterTypes": [
+                    "ch.qos.logback.core.spi.ContextAware"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ch.qos.logback.core.pattern.PatternLayoutEncoderBase",
+        "methods": [
+            {
+                "name": "setPattern",
+                "parameterTypes": [
+                    "java.lang.String"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ch.qos.logback.core.pattern.color.CyanCompositeConverter",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ch.qos.logback.core.pattern.color.GrayCompositeConverter",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ch.qos.logback.core.pattern.color.MagentaCompositeConverter",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ch.qos.logback.core.spi.ContextAware",
+        "methods": [
+            {
+                "name": "valueOf",
+                "parameterTypes": [
+                    "java.lang.String"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "com.sun.crypto.provider.AESCipher$General",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "com.sun.crypto.provider.ARCFOURCipher",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "com.sun.crypto.provider.ChaCha20Cipher$ChaCha20Poly1305",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "com.sun.crypto.provider.DESCipher",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "com.sun.crypto.provider.DESedeCipher",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "com.sun.crypto.provider.GaloisCounterMode$AESGCM",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "com.sun.crypto.provider.HmacPKCS12PBECore$HmacPKCS12PBE_SHA1",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "com.sun.crypto.provider.PBEKeyFactory$PBEWithMD5AndDES",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "com.sun.crypto.provider.PBEParameters",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "com.sun.crypto.provider.PKCS12PBECipherCore$PBEWithSHA1AndDESede",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "com.sun.crypto.provider.PKCS12PBECipherCore$PBEWithSHA1AndRC2_40",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderFactoryImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "com.sun.org.apache.xerces.internal.jaxp.SAXParserFactoryImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "es.edn.$ChecknifcliCommand$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "es.edn.ChecknifcliCommand",
+        "queryAllDeclaredMethods": true,
+        "allDeclaredFields": true
+    },
+    {
+        "allDeclaredClasses": true,
+        "queryAllDeclaredConstructors": true,
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "testWithCommandLineOption",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ],
+        "name": "es.edn.ChecknifcliCommandTest",
+        "queryAllDeclaredMethods": true,
+        "allDeclaredFields": true,
+        "queryAllPublicMethods": true
+    },
+    {
+        "name": "es.edn.config.$CheckNifConfig$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "es.edn.config.$SslFactory$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "es.edn.service.$SoapService$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "groovy.lang.Closure"
+    },
+    {
+        "name": "io.micronaut.aop.internal.InterceptorRegistryBean",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.context.annotation.Prototype"
+    },
+    {
+        "name": "io.micronaut.context.env.PropertiesPropertySourceLoader",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.context.env.yaml.YamlPropertySourceLoader",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.context.event.ApplicationEventPublisherFactory",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.context.propagation.instrument.execution.$ExecutorServiceInstrumenter$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.core.async.converters.ReactiveTypeConverterRegistrar",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.HttpTypeConverterRegistrar",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.bind.$DefaultRequestBinderRegistry$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.bind.binders.$DefaultBodyAnnotationBinder$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.body.$CharSequenceBodyWriter$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.body.$ConversionTextPlainHandler$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.body.$DefaultMessageBodyHandlerRegistry$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.body.$RawMessageBodyHandlerRegistry$RawByteArrayHandler$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.body.$RawMessageBodyHandlerRegistry$RawByteBufferHandler$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.body.$RawMessageBodyHandlerRegistry$RawStringHandler$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.body.$TextPlainHandler$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.body.$TextStreamBodyWriter$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.body.$WritableBodyWriter$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.codec.$CodecConfiguration$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.converters.$HttpConverterRegistrar$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.converters.SharedHttpConvertersRegistrar",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.expression.$RequestConditionContext$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.resource.$ResourceLoaderFactory$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.resource.$ResourceLoaderFactory$FileSystemResourceLoader1$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.resource.$ResourceLoaderFactory$GetClassPathResourceLoader0$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.resource.$ResourceLoaderFactory$ResourceResolver2$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.ssl.$ClientSslConfiguration$DefaultKeyConfiguration$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.ssl.$ClientSslConfiguration$DefaultKeyStoreConfiguration$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.ssl.$ClientSslConfiguration$DefaultTrustStoreConfiguration$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.ssl.$ClientSslConfiguration$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.ssl.$DefaultSslConfiguration$DefaultKeyConfiguration$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.ssl.$DefaultSslConfiguration$DefaultKeyStoreConfiguration$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.ssl.$DefaultSslConfiguration$DefaultTrustStoreConfiguration$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.ssl.$DefaultSslConfiguration$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.ssl.$ServerSslConfiguration$DefaultKeyConfiguration$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.ssl.$ServerSslConfiguration$DefaultKeyStoreConfiguration$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.ssl.$ServerSslConfiguration$DefaultTrustStoreConfiguration$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.ssl.$ServerSslConfiguration$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.http.util.$OutgoingHttpRequestProcessorImpl$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.inject.annotation.AnnotationConvertersRegistrar",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.inject.provider.BeanProviderDefinition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.inject.provider.JakartaProviderBeanDefinition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.inject.provider.JavaxProviderBeanDefinition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.jackson.core.env.CloudFoundryVcapApplicationPropertySourceLoader",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.jackson.core.env.CloudFoundryVcapServicesPropertySourceLoader",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.jackson.core.env.EnvJsonPropertySourceLoader",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.jackson.core.env.JsonPropertySourceLoader",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.json.$JsonObjectSerializer$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.json.bind.$JsonBeanPropertyBinder$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.json.body.$JsonMessageHandler$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.json.codec.$JsonMediaTypeCodec$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.json.codec.$JsonStreamMediaTypeCodec$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.json.convert.$JsonConverterRegistrar$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.logging.$PropertiesLoggingLevelsConfigurer$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.logging.LoggingConverterRegistrar",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.logging.impl.$Log4jLoggingSystem$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.logging.impl.$LogbackLoggingSystem$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.runtime.$ApplicationConfiguration$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.runtime.$ApplicationConfiguration$InstanceConfiguration$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.runtime.beans.$MapperIntroduction$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.runtime.beans.$MapperMethodProcessor$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.runtime.context.$CompositeMessageSource$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.runtime.context.env.$ConfigurationIntroductionAdvice$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.runtime.context.scope.$ThreadLocalCustomScope$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.runtime.context.scope.refresh.$RefreshInterceptor$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.runtime.context.scope.refresh.$RefreshScope$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.runtime.converters.time.TimeConverterRegistrar",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.runtime.http.codec.$MediaTypeCodecRegistryFactory$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.runtime.http.codec.$MediaTypeCodecRegistryFactory$MediaTypeCodecRegistry0$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.runtime.http.codec.$TextPlainCodec$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.runtime.http.scope.$RequestCustomScope$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.runtime.server.watch.event.$FileWatchRestartListener$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.scheduling.$DefaultTaskExceptionHandler$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.scheduling.$ScheduledExecutorTaskScheduler$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.scheduling.async.$AsyncInterceptor$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.scheduling.executor.$DefaultExecutorSelector$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.scheduling.executor.$DefaultThreadFactory$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.scheduling.executor.$DefaultThreadFactory$ThreadFactory0$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.scheduling.executor.$ExecutorFactory$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.scheduling.executor.$ExecutorFactory$EventLoopGroupThreadFactory0$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.scheduling.executor.$ExecutorFactory$ExecutorService1$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.scheduling.executor.$IOExecutorServiceConfig$Blocking2$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.scheduling.executor.$IOExecutorServiceConfig$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.scheduling.executor.$IOExecutorServiceConfig$Io0$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.scheduling.executor.$IOExecutorServiceConfig$Virtual1$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.scheduling.executor.$ScheduledExecutorServiceConfig$Configuration0$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.scheduling.executor.$ScheduledExecutorServiceConfig$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.scheduling.executor.$UserExecutorConfiguration$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.scheduling.io.watch.$DefaultWatchThread$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.scheduling.io.watch.$FileWatchConfiguration$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.scheduling.io.watch.$WatchServiceFactory$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.scheduling.io.watch.$WatchServiceFactory$WatchService0$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.scheduling.processor.$ScheduledMethodProcessor$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.serde.config.$DefaultDeserializationConfiguration$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.serde.config.$DefaultSerdeConfiguration$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.serde.config.$DefaultSerializationConfiguration$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.serde.jackson.$JacksonJsonMapper$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.serde.jackson.$SerdeJacksonConfiguration$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.serde.support.$DefaultSerdeIntrospections$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.serde.support.$DefaultSerdeRegistry$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.serde.support.$LegacyBeansFactory$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.serde.support.$LegacyBeansFactory$InetAddressSerde4$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.serde.support.$LegacyBeansFactory$InstantSerde5$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.serde.support.$LegacyBeansFactory$LocalDateSerde6$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.serde.support.$LegacyBeansFactory$LocalDateTimeSerde7$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.serde.support.$LegacyBeansFactory$LocalTimeSerde8$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.serde.support.$LegacyBeansFactory$OffsetDateTimeSerde9$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.serde.support.$LegacyBeansFactory$ProvideObjectArraySerde3$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.serde.support.$LegacyBeansFactory$ProvideObjectDeserializer2$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.serde.support.$LegacyBeansFactory$ProvideObjectSerializer1$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.serde.support.$LegacyBeansFactory$ProvideSerde0$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.serde.support.$LegacyBeansFactory$YearSerde10$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.serde.support.$LegacyBeansFactory$ZonedDateTimeSerde11$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.serde.support.bind.$SerdeJsonBeanPropertyBinderExceptionHandler$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.serde.support.config.$SerdeJsonConfiguration$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.serde.support.deserializers.$HealthResultDeserializer$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.serde.support.serdes.$HealthStatusSerde$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.test.support.server.$TestEmbeddedServer$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.test.support.server.$TestExecutableEmbeddedServer$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.test.support.sql.$ConnectionFactoryHandler$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.test.support.sql.$DataSourceSqlHandler$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "io.micronaut.test.support.sql.$DelegatingDataSourceSqlHandler$Definition",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "java.io.FilePermission"
+    },
+    {
+        "name": "java.lang.Enum"
+    },
+    {
+        "name": "java.lang.Object",
+        "queryAllDeclaredMethods": true,
+        "allDeclaredFields": true
+    },
+    {
+        "name": "java.lang.RuntimePermission"
+    },
+    {
+        "name": "java.lang.String"
+    },
+    {
+        "name": "java.lang.Thread",
+        "fields": [
+            {
+                "name": "threadLocalRandomProbe"
+            }
+        ]
+    },
+    {
+        "name": "java.lang.invoke.MethodHandle"
+    },
+    {
+        "name": "java.net.NetPermission"
+    },
+    {
+        "name": "java.net.SocketPermission"
+    },
+    {
+        "name": "java.net.URLPermission",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    "java.lang.String",
+                    "java.lang.String"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "java.nio.file.Path"
+    },
+    {
+        "name": "java.nio.file.Paths",
+        "methods": [
+            {
+                "name": "get",
+                "parameterTypes": [
+                    "java.lang.String",
+                    "java.lang.String[]"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "java.security.AlgorithmParametersSpi"
+    },
+    {
+        "name": "java.security.AllPermission"
+    },
+    {
+        "name": "java.security.KeyStoreSpi"
+    },
+    {
+        "name": "java.security.SecureRandomParameters"
+    },
+    {
+        "name": "java.security.SecurityPermission"
+    },
+    {
+        "name": "java.security.interfaces.RSAPrivateKey"
+    },
+    {
+        "name": "java.security.interfaces.RSAPublicKey"
+    },
+    {
+        "name": "java.sql.Connection"
+    },
+    {
+        "name": "java.sql.Driver"
+    },
+    {
+        "name": "java.sql.DriverManager",
+        "methods": [
+            {
+                "name": "getConnection",
+                "parameterTypes": [
+                    "java.lang.String"
+                ]
+            },
+            {
+                "name": "getDriver",
+                "parameterTypes": [
+                    "java.lang.String"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "java.sql.Time",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    "long"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "java.sql.Timestamp",
+        "methods": [
+            {
+                "name": "valueOf",
+                "parameterTypes": [
+                    "java.lang.String"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "java.time.Duration",
+        "methods": [
+            {
+                "name": "parse",
+                "parameterTypes": [
+                    "java.lang.CharSequence"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "java.time.Instant",
+        "methods": [
+            {
+                "name": "parse",
+                "parameterTypes": [
+                    "java.lang.CharSequence"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "java.time.LocalDate",
+        "methods": [
+            {
+                "name": "parse",
+                "parameterTypes": [
+                    "java.lang.CharSequence"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "java.time.LocalDateTime",
+        "methods": [
+            {
+                "name": "parse",
+                "parameterTypes": [
+                    "java.lang.CharSequence"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "java.time.LocalTime",
+        "methods": [
+            {
+                "name": "parse",
+                "parameterTypes": [
+                    "java.lang.CharSequence"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "java.time.MonthDay",
+        "methods": [
+            {
+                "name": "parse",
+                "parameterTypes": [
+                    "java.lang.CharSequence"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "java.time.OffsetDateTime",
+        "methods": [
+            {
+                "name": "parse",
+                "parameterTypes": [
+                    "java.lang.CharSequence"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "java.time.OffsetTime",
+        "methods": [
+            {
+                "name": "parse",
+                "parameterTypes": [
+                    "java.lang.CharSequence"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "java.time.Period",
+        "methods": [
+            {
+                "name": "parse",
+                "parameterTypes": [
+                    "java.lang.CharSequence"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "java.time.Year",
+        "methods": [
+            {
+                "name": "parse",
+                "parameterTypes": [
+                    "java.lang.CharSequence"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "java.time.YearMonth",
+        "methods": [
+            {
+                "name": "parse",
+                "parameterTypes": [
+                    "java.lang.CharSequence"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "java.time.ZoneId",
+        "methods": [
+            {
+                "name": "of",
+                "parameterTypes": [
+                    "java.lang.String"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "java.time.ZoneOffset",
+        "methods": [
+            {
+                "name": "of",
+                "parameterTypes": [
+                    "java.lang.String"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "java.time.ZonedDateTime",
+        "methods": [
+            {
+                "name": "parse",
+                "parameterTypes": [
+                    "java.lang.CharSequence"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "java.util.Date"
+    },
+    {
+        "name": "java.util.HashSet"
+    },
+    {
+        "name": "java.util.LinkedHashSet"
+    },
+    {
+        "name": "java.util.PropertyPermission"
+    },
+    {
+        "name": "java.util.concurrent.ArrayBlockingQueue"
+    },
+    {
+        "name": "java.util.concurrent.ForkJoinTask",
+        "fields": [
+            {
+                "name": "aux"
+            },
+            {
+                "name": "status"
+            }
+        ]
+    },
+    {
+        "name": "java.util.concurrent.atomic.AtomicBoolean",
+        "fields": [
+            {
+                "name": "value"
+            }
+        ]
+    },
+    {
+        "name": "java.util.concurrent.atomic.AtomicReference",
+        "fields": [
+            {
+                "name": "value"
+            }
+        ]
+    },
+    {
+        "name": "java.util.concurrent.atomic.Striped64",
+        "fields": [
+            {
+                "name": "base"
+            },
+            {
+                "name": "cellsBusy"
+            }
+        ]
+    },
+    {
+        "name": "java.util.concurrent.locks.AbstractOwnableSynchronizer"
+    },
+    {
+        "name": "java.util.concurrent.locks.AbstractQueuedSynchronizer"
+    },
+    {
+        "name": "java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject"
+    },
+    {
+        "name": "java.util.concurrent.locks.ReentrantLock"
+    },
+    {
+        "name": "java.util.concurrent.locks.ReentrantLock$NonfairSync"
+    },
+    {
+        "name": "java.util.concurrent.locks.ReentrantLock$Sync"
+    },
+    {
+        "name": "javax.security.auth.x500.X500Principal",
+        "fields": [
+            {
+                "name": "thisX500Name"
+            }
+        ],
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    "sun.security.x509.X500Name"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "javax.smartcardio.CardPermission"
+    },
+    {
+        "name": "jdk.internal.misc.Unsafe"
+    },
+    {
+        "name": "org.apache.axiom.locator.DefaultOMMetaFactoryLocator",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.dom.DOMMetaFactory"
+    },
+    {
+        "name": "org.apache.axiom.om.impl.dom.CDATASectionImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.dom.CommentImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.dom.DocumentFragmentImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.dom.DocumentImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.dom.DocumentTypeImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.dom.EntityReferenceImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.dom.NSAwareAttribute",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.dom.NSAwareElement",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.dom.NSUnawareAttribute",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.dom.NSUnawareElement",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.dom.NamespaceDeclaration",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.dom.OMSourcedElementImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.dom.ProcessingInstructionImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.dom.TextImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.dom.factory.OMDOMMetaFactoryLoader",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.llom.CDATASectionImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.llom.CharacterDataImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.llom.NamespaceDeclaration",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.llom.OMAttributeImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.llom.OMCommentImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.llom.OMDocTypeImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.llom.OMDocumentImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.llom.OMElementImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.llom.OMEntityReferenceImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.llom.OMProcessingInstructionImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.llom.OMSourcedElementImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.om.impl.llom.factory.OMLinkedListMetaFactoryLoader",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.dom.SOAPMessageImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.dom.soap11.SOAP11BodyImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.dom.soap11.SOAP11EnvelopeImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.dom.soap11.SOAP11FaultCodeImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.dom.soap11.SOAP11FaultDetailImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.dom.soap11.SOAP11FaultImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.dom.soap11.SOAP11FaultReasonImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.dom.soap11.SOAP11FaultRoleImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.dom.soap11.SOAP11HeaderBlockImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.dom.soap11.SOAP11HeaderImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.dom.soap12.SOAP12BodyImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.dom.soap12.SOAP12EnvelopeImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.dom.soap12.SOAP12FaultCodeImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.dom.soap12.SOAP12FaultDetailImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.dom.soap12.SOAP12FaultImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.dom.soap12.SOAP12FaultNodeImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.dom.soap12.SOAP12FaultReasonImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.dom.soap12.SOAP12FaultRoleImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.dom.soap12.SOAP12FaultSubCodeImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.dom.soap12.SOAP12FaultTextImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.dom.soap12.SOAP12FaultValueImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.dom.soap12.SOAP12HeaderBlockImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.dom.soap12.SOAP12HeaderImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.llom.SOAPMessageImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.llom.soap11.SOAP11BodyImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.llom.soap11.SOAP11EnvelopeImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.llom.soap11.SOAP11FaultCodeImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.llom.soap11.SOAP11FaultDetailImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.llom.soap11.SOAP11FaultImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.llom.soap11.SOAP11FaultReasonImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.llom.soap11.SOAP11FaultRoleImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.llom.soap11.SOAP11HeaderBlockImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.llom.soap11.SOAP11HeaderImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.llom.soap12.SOAP12BodyImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.llom.soap12.SOAP12EnvelopeImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.llom.soap12.SOAP12FaultCodeImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.llom.soap12.SOAP12FaultDetailImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.llom.soap12.SOAP12FaultImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.llom.soap12.SOAP12FaultNodeImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.llom.soap12.SOAP12FaultReasonImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.llom.soap12.SOAP12FaultRoleImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.llom.soap12.SOAP12FaultSubCodeImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.llom.soap12.SOAP12FaultTextImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.llom.soap12.SOAP12FaultValueImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.llom.soap12.SOAP12HeaderBlockImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axiom.soap.impl.llom.soap12.SOAP12HeaderImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axis2.builder.ApplicationXMLBuilder",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axis2.builder.XFormURLEncodedBuilder",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axis2.deployment.POJODeployer",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axis2.deployment.ServiceDeployer",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axis2.deployment.TransportDeployer",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axis2.deployment.WSDLServiceBuilderExtension",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axis2.dispatchers.AddressingBasedDispatcher",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axis2.dispatchers.HTTPLocationBasedDispatcher",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axis2.dispatchers.RequestURIBasedDispatcher",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axis2.dispatchers.RequestURIOperationDispatcher",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axis2.dispatchers.SOAPActionBasedDispatcher",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axis2.dispatchers.SOAPMessageBodyBasedDispatcher",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axis2.engine.AxisEngine"
+    },
+    {
+        "name": "org.apache.axis2.engine.DispatchPhase",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axis2.jaxws.framework.JAXWSServiceBuilderExtension"
+    },
+    {
+        "name": "org.apache.axis2.rpc.receivers.RPCInOnlyMessageReceiver",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axis2.rpc.receivers.RPCMessageReceiver",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axis2.transport.http.ApplicationXMLFormatter",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axis2.transport.http.MultipartFormDataFormatter",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axis2.transport.http.SOAPMessageFormatter",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axis2.transport.http.SimpleHTTPServer",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axis2.transport.http.XFormURLEncodedFormatter",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axis2.transport.http.impl.httpclient4.HTTPClient4TransportSender",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.axis2.transport.local.LocalTransportSender",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.commons.logging.LogFactory"
+    },
+    {
+        "name": "org.apache.commons.logging.impl.Jdk14Logger",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    "java.lang.String"
+                ]
+            },
+            {
+                "name": "setLogFactory",
+                "parameterTypes": [
+                    "org.apache.commons.logging.LogFactory"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.commons.logging.impl.Log4JLogger"
+    },
+    {
+        "name": "org.apache.commons.logging.impl.LogFactoryImpl",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "org.apache.commons.logging.impl.WeakHashtable",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "picocli.CommandLine$AutoHelpMixin",
+        "queryAllDeclaredMethods": true,
+        "allDeclaredFields": true
+    },
+    {
+        "name": "sun.security.pkcs12.PKCS12KeyStore",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "sun.security.pkcs12.PKCS12KeyStore$DualFormatPKCS12",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "sun.security.provider.NativePRNG",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            },
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    "java.security.SecureRandomParameters"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "sun.security.provider.SHA",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "sun.security.provider.SHA2$SHA256",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "sun.security.provider.X509Factory",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "sun.security.rsa.RSAKeyFactory$Legacy",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "sun.security.rsa.RSASignature$SHA256withRSA",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "sun.security.ssl.KeyManagerFactoryImpl$SunX509",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "sun.security.ssl.SSLContextImpl$TLSContext",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "sun.security.ssl.TrustManagerFactoryImpl$PKIXFactory",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        "name": "sun.security.util.ObjectIdentifier"
+    },
+    {
+        "name": "sun.security.x509.AuthorityInfoAccessExtension",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    "java.lang.Boolean",
+                    "java.lang.Object"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "sun.security.x509.AuthorityKeyIdentifierExtension",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    "java.lang.Boolean",
+                    "java.lang.Object"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "sun.security.x509.BasicConstraintsExtension",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    "java.lang.Boolean",
+                    "java.lang.Object"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "sun.security.x509.CRLDistributionPointsExtension",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    "java.lang.Boolean",
+                    "java.lang.Object"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "sun.security.x509.CertificateExtensions"
+    },
+    {
+        "name": "sun.security.x509.CertificatePoliciesExtension",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    "java.lang.Boolean",
+                    "java.lang.Object"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "sun.security.x509.ExtendedKeyUsageExtension",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    "java.lang.Boolean",
+                    "java.lang.Object"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "sun.security.x509.IssuerAlternativeNameExtension",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    "java.lang.Boolean",
+                    "java.lang.Object"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "sun.security.x509.KeyUsageExtension",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    "java.lang.Boolean",
+                    "java.lang.Object"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "sun.security.x509.NetscapeCertTypeExtension",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    "java.lang.Boolean",
+                    "java.lang.Object"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "sun.security.x509.PrivateKeyUsageExtension",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    "java.lang.Boolean",
+                    "java.lang.Object"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "sun.security.x509.SubjectAlternativeNameExtension",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    "java.lang.Boolean",
+                    "java.lang.Object"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "sun.security.x509.SubjectKeyIdentifierExtension",
+        "methods": [
+            {
+                "name": "<init>",
+                "parameterTypes": [
+                    "java.lang.Boolean",
+                    "java.lang.Object"
+                ]
+            }
+        ]
+    }
+]
